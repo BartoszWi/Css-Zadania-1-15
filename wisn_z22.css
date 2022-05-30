@@ -1,0 +1,20 @@
+p
+{
+    color: red;
+    font-size: 22px;
+}
+
+p#gruby_wisniewski
+{
+    color: green;
+    font-size 17px;
+    font-weight: bold;
+}
+
+
+#dlawszyskich_wisniewski
+{
+    color: yellow;
+    font-size: 10px;
+    font-family: Arial;
+}
