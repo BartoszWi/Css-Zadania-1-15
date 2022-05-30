@@ -1,0 +1,39 @@
+p#pogrubienie_wisniewski
+{
+    font-size: 35px;
+    color: #855FCB;
+}
+
+p#pochylona_wisniewski
+{
+    font-size: 40;
+    color: #E1C367;
+}
+
+p#index_gorny_wisniewski
+{
+    font-size: 1.5cm;
+    color: #999117;
+}
+
+p#index_dolny_wisniewski
+{
+    font-size: 2.5cm;
+    color: #35F5DF;
+}
+
+p#mono_nazwisko_wisniewski
+{
+    font-size: 45px;
+    color: #19E167;
+}
+
+p#powiekszenie_wisniewski
+{
+    color: #534199;
+}
+
+p#pomniejszenie_wisniewski
+{
+    color: rgb(72%, 65%, 21%);
+}
