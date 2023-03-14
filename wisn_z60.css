@@ -1,0 +1,18 @@
+div
+{
+    width: 626px;
+    background-color: #008000;
+    font-size: 20mm;
+}
+#blok1_wisn:hover
+{
+    background-color:#c0c0c0;
+}
+#blok2_wisn:hover
+{
+    background-color:#ffff00;
+}
+#blok3_wisn:hover
+{
+    background-color:#40e0d0;
+}
